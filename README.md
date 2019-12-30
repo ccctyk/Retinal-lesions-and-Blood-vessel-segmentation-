@@ -1,4 +1,4 @@
-# Project Title
+# Retinal-lesions-and-Blood-vessel-segmentation
 
 The goal of the subject is to separate four different
 retinal lesions and separate blood vessels. For the first task we
@@ -42,14 +42,14 @@ Result for HE on the test set
 
 VGG
 Performance of Hard Exudates
-![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Hard Exudates.jpg)
+![Image]( https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Hard%20Exudates.jpg)
 
 Performance of Hemorrhages
-![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Haemorrhages.jpg)
+![Image]( https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Haemorrhages.jpg)
 
 Performance of Soft Exudates
-![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Soft Exudates.jpg)
+![Image]( https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Soft%20Exudates.jpg)
 
 Performance of Microaneurysms
-![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Microaneurysms.jpg)
+![Image]( https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Microaneurysms.jpg)
 
