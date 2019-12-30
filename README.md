@@ -36,6 +36,7 @@ Tensorflow
 
 ### Sample Output
 SVM
+
 ![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__SVM-test.jpg)
 
 Result for HE on the training set
@@ -47,6 +48,7 @@ Result for HE on the training set
 Result for HE on the test set
 
 VGG
+
 ![Image]( https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Hard%20Exudates.jpg)
 
 Performance of Hard Exudates
