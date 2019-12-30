@@ -18,8 +18,10 @@ Jupyter
 ### Sample Output
 
 Alternative sequential filtering
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/blood__ASF.jpg)
 
 Unet Deep Learning
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/blood__Unet.jpg)
 
 DR lesions Segmentation Segmentation
 ### Prerequisites
@@ -28,23 +30,26 @@ The following must be installed and configured:
 
 Python
 OpenCV
-Jupyter
+Tensorflow
 
 ### Sample Output
 SVM
 Result for HE on the training set
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__SVM-test.jpg)
 
 Result for HE on the test set
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__SVM-training.jpg)
 
 VGG
 Performance of Hard Exudates
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Hard Exudates.jpg)
 
 Performance of Hemorrhages
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Haemorrhages.jpg)
 
 Performance of Soft Exudates
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Soft Exudates.jpg)
 
 Performance of Microaneurysms
-
-
-
+![Image](https://github.com/ccctyk/Retinal-lesions-and-Blood-vessel-segmentation-/blob/master/img-folder/lessions__VGG-Microaneurysms.jpg)
 
